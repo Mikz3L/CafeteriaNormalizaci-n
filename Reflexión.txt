@@ -1,0 +1,4 @@
+REFLEXION
+
+La normalización me ha permitido entender que existen métodos para organizar y estructurar una base de datos de manera más 
+eficiente. Esto me ayuda tanto su comprensión como el proceso de un diseño de base de datos.
